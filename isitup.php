@@ -66,7 +66,6 @@ if($ch_response === FALSE){
 # Send the reply back to the user. 
 echo $reply;
 
-?>
 
 
 
