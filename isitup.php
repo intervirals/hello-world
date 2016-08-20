@@ -1,4 +1,4 @@
-$user_agent = "IsitupForSlack/1.0 (https://github.com/mccreath/istiupforslack; mccreath@gmail.com)";
+$user_agent = "IsitupForSlack/1.0 (https://github.com/mccreath/istiupforslack; mccreath@gmail.com)"; //update2-424
 
 $command = $_POST['command']; //retrieve text of the command from isitup, this creates a variable
 
